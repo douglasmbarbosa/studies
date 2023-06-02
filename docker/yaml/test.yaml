@@ -1,0 +1,9 @@
+nome: "Douglas"
+idade: 23
+
+#Este é um exemplo de comentário
+
+objeto: 
+  versao: 2
+  arquivo: "test.txt"
+  
