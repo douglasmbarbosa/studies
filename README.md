@@ -36,4 +36,11 @@ Tipos de drivers:
 - none
 - plugins
 
+Docker Swarm - Conceitos Fundamentais: 
+
+- Node:
+- Manager node
+- Worker node
+- Service
+- Task
 
